@@ -1,13 +1,17 @@
 # MITRE-ATT&CK
-Understanding ATT&amp;CK Matrix for Enterprise
+Understanding ATT&amp;CK Matrix for Enterprise.
+1. Select a Platform (Green Box)
+  - All     : 11 Tactcis / 219 Techniques / 48 Data Sources
+  - Windows : 11 Tactcis / 187 Techniques / 48 Data Sources
+  - macOS   : 11 Tactcis / 130 Techniques / 41 Data Sources
+  - Linux   : 11 Tactics / 108 Techniques / 42 Data Sources
+  
+  
+2. Select a Tactic or Technique or Data Source
+  - 
 ## Goals
 - Quantify the relationship between **Platforms & Tactics & Techniques & Data Sources**
-  1. % Coverage of Tactics, Techniques and Data Sources
-  2. Relative Percentage of Data by Platform
-  3. Ranking of Tactics by Number of Techniques
-  4. Ranking of Techniues by Number of Data Sources
-  5. Ranking of Data Sources by Number of Techniques
-- Summarize the data and information about **ATT&CK Matrix for Enterprise**
+- Summarize data and information about **ATT&CK Matrix for Enterprise**
 - Develop a dashboard with **Tableau** to present the results of this analysis
 ## Resources
 - [MITRE-ATT&CK] (https://attack.mitre.org/wiki/Main_Page)
@@ -18,3 +22,4 @@ Understanding ATT&amp;CK Matrix for Enterprise
 ## Contributors
 ## Contributing
 ## TO-DO
+- [ ] 
