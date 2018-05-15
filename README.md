@@ -24,11 +24,11 @@ This is a general view of the dashboard: Without any filter selected, there are 
 ## Using The Tableau Dashboard
 **1. Filtering the data:** Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
 
-  a) Example of view: Platform & Tactic
-    - Platform filter = Windows
-    <img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
-    - Tactic filter = Command and Control
-    <img src= "Images/WindowsPlatformTacticFilter.PNG" width="1000" height="500" >
+a) Example of view: Platform & Tactic
+- Platform filter = Windows
+<img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
+- Tactic filter = Command and Control
+<img src= "Images/WindowsPlatformTacticFilter.PNG" width="1000" height="500" >
   
   
 **2. Exporting the Text Table to a .CSV file:**
