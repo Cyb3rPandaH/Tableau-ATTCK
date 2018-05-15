@@ -3,12 +3,20 @@ Understanding ATT&amp;CK Matrix for Enterprise. The minimum unit of analysis for
 
 **1. Pie Chart (Platform):** This graphic shows us the distribution of the registers by Platform. If we consider all the registers: 46% belongs to Windows, 29% belongs to macOS, and 25% belongs to Linux.
 
-**2. Blue Bar Charts (Tactics):** This graphic shows us the following information: Number of Tactics, (On Top of the vertical bar chart) Relative Percentage with respect to the Total of Tactics of the selected Platform (Vertical bar chart), and the number of Techniques for each Tactic (Horizontal bar chart).
+**2. Blue Bar Charts (Tactics):** This graphic shows us the following information: Number of Tactics (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Tactics of the selected Platform (Vertical bar chart), and the number of Techniques for each Tactic (Horizontal bar chart).
 
+**3. Red Bar Charts (Techniques):** This graphic shows us the following information: Number of Techniques (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Techniques of the selected Platform (Vertical bar chart), and the number of Data Sources for each Technique (Horizontal bar chart).
+
+**4. Orange Bar Charts (Data Sources):** This graphic shows us the following information: Number of Data Sources (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Data Sources of the selected Platform (Vertical bar chart), and the number of Techniques for each Data Source (Horizontal bar chart).
+
+**5. Text table (Summary of Data):** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
+
+
+<img src= "Images/AllPlatforms.PNG" width="1000" height="500" >
 
 Select a Platform (Green box): Selecting a platform is important because it's going to set the total number of tactics (100%), techniques o data sources to calculate the percentage of coverage (Vertical bar charts).
   - All     : 11 Tactcis / 219 Techniques / 48 Data Sources
-  <img src= "Images/AllPlatforms.PNG" width="1000" height="500" >
+
   - Windows : 11 Tactcis / 187 Techniques / 48 Data Sources
   <img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
   - macOS   : 11 Tactcis / 130 Techniques / 41 Data Sources
