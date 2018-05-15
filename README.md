@@ -29,8 +29,9 @@ This is a general view of the dashboard:
 - Summarize data and information about **ATT&CK Matrix for Enterprise**
 - Develop a dashboard with **Tableau** to present the results of this analysis
 ## Resources
+- [Tableau Dashboard - ATT&CK Matrix for Enterprise](https://public.tableau.com/profile/cyb3rpanda#!/vizhome/MITREATTCKMatrixforEnterpriseV2/ATTCK?publish=yes)
+- [Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
 - [MITRE-ATT&CK](https://attack.mitre.org/wiki/Main_Page)
-- 
 ## Author
 - Jose Luis Rodriguez [Cyb3rPanda](https://twitter.com/Cyb3rPandaH)
 - Roberto Rodriguez [Cyb3rWarD0g](https://twitter.com/Cyb3rWard0g)
