@@ -1,5 +1,6 @@
-# MITRE-ATT&CK
-Understanding ATT&amp;CK Matrix for Enterprise. The minimum unit of analysis for this matrix is the combinations of Platform & Tactic & Technique & Data Source. Considering this, the matrix has 1715 registers.
+# MITRE-ATT&CK Matrix for Enterprise
+
+The minimum unit of analysis for this matrix is the combinations of Platform & Tactic & Technique & Data Source. Considering this, the matrix has 1715 registers.
 
 **1. Pie Chart (Platform):** This graphic shows us the distribution of the registers by Platform. If we consider all the registers: 46% belongs to Windows, 29% belongs to macOS, and 25% belongs to Linux.
 
@@ -11,8 +12,9 @@ Understanding ATT&amp;CK Matrix for Enterprise. The minimum unit of analysis for
 
 **5. Text table (Summary of Data):** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
 
-**6. Filters (Green Box)** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
+**6. Filters (Green Box):** You can perform filters using the fields related to the minimum unit of analysis: Platform, Tactics, Techniques, and Data Sources. The most general filter is Platform and the most specific is Data Source. The values of the 4 fields are filtered among themselves.
 
+This is a general view of the dashboard:
 <img src= "Images/AllPlatforms.PNG" width="1000" height="500" >
 
 
