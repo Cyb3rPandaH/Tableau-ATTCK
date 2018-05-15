@@ -11,16 +11,11 @@ Understanding ATT&amp;CK Matrix for Enterprise. The minimum unit of analysis for
 
 **5. Text table (Summary of Data):** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
 
+**6. Filters (Green Box)** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
 
 <img src= "Images/AllPlatforms.PNG" width="1000" height="500" >
 
-Select a Platform (Green box): Selecting a platform is important because it's going to set the total number of tactics (100%), techniques o data sources to calculate the percentage of coverage (Vertical bar charts).
-  - All     : 11 Tactcis / 219 Techniques / 48 Data Sources
 
-  - Windows : 11 Tactcis / 187 Techniques / 48 Data Sources
-  <img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
-  - macOS   : 11 Tactcis / 130 Techniques / 41 Data Sources
-  - Linux   : 11 Tactics / 108 Techniques / 42 Data Sources
 2. Select a variable or variables for analysis (Below the green box): You have three options to filter data and perform an analysis (Tactics,Techniques, and Data Sources).
   
 
