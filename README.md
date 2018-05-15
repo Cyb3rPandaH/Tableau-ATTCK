@@ -2,7 +2,7 @@
 Understanding ATT&amp;CK Matrix for Enterprise.
 1. Select a Platform (Green box): Selecting a platform is important because it's going to set the total number of tactics (100%), techniques o data sources to calculate the percentage of coverage (Vertical bar charts).
   - All     : 11 Tactcis / 219 Techniques / 48 Data Sources
-  <img src= "Images/AllPlatforms.png" width="100" height="10" >
+  <img src= "Images/AllPlatforms.PNG" width="100" height="10" >
   
   - Windows : 11 Tactcis / 187 Techniques / 48 Data Sources
   - macOS   : 11 Tactcis / 130 Techniques / 41 Data Sources
