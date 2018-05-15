@@ -35,11 +35,18 @@ b) Second example of view: Platform & Data Source
 - **Data Source Filter = Process Monitoring:** Considering the Windows platform, now we will filter the data source "Process Monitoring". With this second filter, now we can realize that this data source is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).<img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="800" height="500" >
 
 **2. Exporting the Text Table to a .CSV file:**
+
 a) First you need to click the first column of the table (Asterix) and maintain the cursor over the column until a little gray box appears.<img src= "Images/Export1.PNG" width="800" height="500" >
+
 b) Then you need to click "View Data Buttom" (On the right).<img src= "Images/Export2.png" width="800" height="500" >
+
 c) After that this window will appear. You need to click on "Download all rows as a text file".<img src= "Images/Export3.PNG" width="800" height="500" >
-d) A .CSV file will appear at the bottom of you screen.<img src= "Images/Export4.PNG" width="300" height="200" >
+
+d) A .CSV file will appear at the bottom of you screen.
+<img src= "Images/Export4.PNG" width="300" height="200" >
+
 e) When you open de .CSV file, because of some cells have a lot of characters, the file will look like this:<img src= "Images/Export5.PNG" width="800" height="500" >
+
 f) If you adjust the rows height, the .CSV file will look like this:<img src= "Images/Export6.PNG" width="800" height="500" >
 
 ## Resources
