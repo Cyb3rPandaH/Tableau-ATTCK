@@ -21,26 +21,26 @@ The minimum unit of analysis for this matrix is the combinations of Platform & T
 **6. Filters (Green Box):** You can perform filters using the fields related to the minimum unit of analysis: Platform, Tactics, Techniques, and Data Sources. The most general filter is Platform and the most specific is Data Source. The values of the 4 fields are filtered among themselves.
 
 This is a general view of the dashboard: Without any filter selected, there are 11 Tactics, 219 Techniques, and 48 Data Sources for all the Platforms.
-<img src= "Images/AllPlatforms.PNG" width="1000" height="500" >
+<img src= "Images/AllPlatforms.PNG" width="800" height="500" >
 
 ## Using The Tableau Dashboard
 **1. Filtering the data:** Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
 
 a) First example of view: Platform & Tactic 
 - **Platform filter = Windows:** When we filter the Windows platform, the pie chart shows us a value of 100%. For this platform exists 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.<img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
-- **Tactic filter = Command and Control:** Considering the Windows platform, now we will filter the tactic "Command and Control". With this second filter, now we have **1 tactic** *(9.1% = 1/11)*, **20 techniques** *(10.7% = 20/187)*, and **12 data sources** *(25.0% = 12/48)*. With respect to techniques, **"Remote File Copy" and "Standard Cryptographic Protocol"** are the techniques with the highest number of **data sources (6 from 12 available)**. With respect to data sources, **"Packet Capture" and "Process Use of network"** are the most relevant data sources for this tactic because they are related to **15 techniqes from 20 available**.<img src= "Images/WindowsPlatformTacticFilter.PNG" width="1000" height="500" >
+- **Tactic filter = Command and Control:** Considering the Windows platform, now we will filter the tactic "Command and Control". With this second filter, now we have **1 tactic** *(9.1% = 1/11)*, **20 techniques** *(10.7% = 20/187)*, and **12 data sources** *(25.0% = 12/48)*. With respect to techniques, **"Remote File Copy" and "Standard Cryptographic Protocol"** are the techniques with the highest number of **data sources (6 from 12 available)**. With respect to data sources, **"Packet Capture" and "Process Use of network"** are the most relevant data sources for this tactic because they are related to **15 techniqes from 20 available**.<img src= "Images/WindowsPlatformTacticFilter.PNG" width="800" height="500" >
 
 b) Second example of view: Platform & Data Source
-- **Platform filter = Windows:** When we filter the Windows platform, the pie chart shows us a value of 100%. For this platform exists 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field. If we check the orange horizontal bar chart, we can determine that **"Process Monitorin"** is the data source most relevant to this platform because is related to 128 techniques from 187 available.<img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
-- **Data Source Filter = Process Monitoring:** Considering the Windows platform, now we will filter the data source "Process Monitoring". With this second filter, now we can realize that this data source is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).<img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="1000" height="500" >
+- **Platform filter = Windows:** When we filter the Windows platform, the pie chart shows us a value of 100%. For this platform exists 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field. If we check the orange horizontal bar chart, we can determine that **"Process Monitorin"** is the data source most relevant to this platform because is related to 128 techniques from 187 available.<img src= "Images/WindowsPlatform.PNG" width="800" height="500" >
+- **Data Source Filter = Process Monitoring:** Considering the Windows platform, now we will filter the data source "Process Monitoring". With this second filter, now we can realize that this data source is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).<img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="800" height="500" >
 
 **2. Exporting the Text Table to a .CSV file:**
-a) First you need to click the first column of the table (Asterix) and maintain the cursor over the column until a little gray box appears.<img src= "Images/Export1.PNG" width="1000" height="500" >
-b) Then you need to click "View Data Buttom" (On the right).<img src= "Images/Export2.png" width="1000" height="500" >
-c) After that this window will appear. You need to click on "Download all rows as a text file".<img src= "Images/Export3.PNG" width="1000" height="500" >
-d) A .CSV file will appear at the bottom of you screen.<img src= "Images/Export4.PNG" width="1000" height="500" >
-e) When you open de .CSV file, because of some cells have a lot of characters, the file will look like this:<img src= "Images/Export5.PNG" width="1000" height="500" >
-f) If you adjust the rows hoight, the .CSV file will look like this:<img src= "Images/Export6.PNG" width="1000" height="500" >
+a) First you need to click the first column of the table (Asterix) and maintain the cursor over the column until a little gray box appears.<img src= "Images/Export1.PNG" width="800" height="500" >
+b) Then you need to click "View Data Buttom" (On the right).<img src= "Images/Export2.png" width="800" height="500" >
+c) After that this window will appear. You need to click on "Download all rows as a text file".<img src= "Images/Export3.PNG" width="800" height="500" >
+d) A .CSV file will appear at the bottom of you screen.<img src= "Images/Export4.PNG" width="300" height="200" >
+e) When you open de .CSV file, because of some cells have a lot of characters, the file will look like this:<img src= "Images/Export5.PNG" width="800" height="500" >
+f) If you adjust the rows height, the .CSV file will look like this:<img src= "Images/Export6.PNG" width="800" height="500" >
 
 ## Resources
 - [Tableau Dashboard - ATT&CK Matrix for Enterprise](https://public.tableau.com/profile/cyb3rpanda#!/vizhome/MITREATTCKMatrixforEnterpriseV2/ATTCK?publish=yes)
