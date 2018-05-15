@@ -36,7 +36,7 @@ b) Second example of view: Platform & Data Source
 
 **2. Exporting the Text Table to a .CSV file:**
 a) First you need to click the first column of the table (Asterix) and maintain the cursor over the column until a little gray box appears.<img src= "Images/Export1.PNG" width="1000" height="500" >
-b) Then you need to click "View Data Buttom" (On the right).<img src= "Images/Export2.PNG" width="1000" height="500" >
+b) Then you need to click "View Data Buttom" (On the right).<img src= "Images/Export2.png" width="1000" height="500" >
 c) After that this window will appear. You need to click on "Download all rows as a text file".<img src= "Images/Export3.PNG" width="1000" height="500" >
 d) A .CSV file will appear at the bottom of you screen.<img src= "Images/Export4.PNG" width="1000" height="500" >
 e) When you open de .CSV file, because of some cells have a lot of characters, the file will look like this:<img src= "Images/Export5.PNG" width="1000" height="500" >
