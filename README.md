@@ -5,7 +5,9 @@ Understanding ATT&amp;CK Matrix for Enterprise.
   - Windows : 11 Tactcis / 187 Techniques / 48 Data Sources
   - macOS   : 11 Tactcis / 130 Techniques / 41 Data Sources
   - Linux   : 11 Tactics / 108 Techniques / 42 Data Sources
-  
+
+For instance, if you select All the dashboard will shown like the picture below:
+![Alt text](relative/path/to/All Platform.jpg?raw=true "All Platform Selected")  
   
 2. Select a Tactic or Technique or Data Source
   - 
