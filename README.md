@@ -7,7 +7,8 @@ Understanding ATT&amp;CK Matrix for Enterprise.
   - Linux   : 11 Tactics / 108 Techniques / 42 Data Sources
 
 For instance, if you select All the dashboard will shown like the picture below:
-![Alt text](relative/path/to/All Platform.jpg?raw=true "All Platform Selected")  
+
+
   
 2. Select a Tactic or Technique or Data Source
   - 
@@ -19,8 +20,8 @@ For instance, if you select All the dashboard will shown like the picture below:
 - [MITRE-ATT&CK] (https://attack.mitre.org/wiki/Main_Page)
 - 
 ## Author
-- Jose Luis Rodriguez [Cyb3rPanda] (https://twitter.com/Cyb3rPandaH)
-- Roberto Rodriguez [Cyb3rWarD0g] (https://twitter.com/Cyb3rWard0g)
+- Jose Luis Rodriguez [Cyb3rPanda](https://twitter.com/Cyb3rPandaH)
+- Roberto Rodriguez [Cyb3rWarD0g](https://twitter.com/Cyb3rWard0g)
 ## Contributors
 ## Contributing
 ## TO-DO
