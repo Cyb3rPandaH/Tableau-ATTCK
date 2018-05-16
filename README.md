@@ -35,32 +35,32 @@ This is a general view of the dashboard: Without any filter selected, there are 
 **1. Filtering the data:** Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
 
 * First example of view: Platform & Tactic 
- - **Platform filter = Windows:**
-  * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
-  * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
-  <img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
+ * **Platform filter = Windows:**
+   * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
+   * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
+   <img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
 
- - **Tactic filter = Command and Control:**
-  * Considering the Windows platform, now we can filter the matrix by the tactic "Command and Control".
-  * With this second filter, we have the following results:
-   * **1 tactic** *(9.1% = 1/11)*
-   * **20 techniques** *(10.7% = 20/187)*
-   * **12 data sources** *(25.0% = 12/48)*
-  * From a techniques perspective, **"Remote File Copy" and "Standard Cryptographic Protocol"** are the techniques with the highest number of **data sources (6 from 12 available)**.
-  * From a data sources perspective, **"Packet Capture" and "Process Use of network"** are the most relevant data sources for this tactic because they are related to **15 techniqes out of 20 available**.
-  <img src= "Images/WindowsPlatformTacticFilter.PNG" width="800" height="500" >
+ * **Tactic filter = Command and Control:**
+   * Considering the Windows platform, now we can filter the matrix by the tactic "Command and Control".
+   * With this second filter, we have the following results:
+     * **1 tactic** *(9.1% = 1/11)*
+     * **20 techniques** *(10.7% = 20/187)*
+     * **12 data sources** *(25.0% = 12/48)*
+   * From a techniques perspective, **"Remote File Copy" and "Standard Cryptographic Protocol"** are the techniques with the highest number of **data sources (6 from 12 available)**.
+   * From a data sources perspective, **"Packet Capture" and "Process Use of network"** are the most relevant data sources for this tactic because they are related to **15 techniqes out of 20 available**.
+   <img src= "Images/WindowsPlatformTacticFilter.PNG" width="800" height="500" >
 
 * Second example of view: Platform & Data Source
- - **Platform filter = Windows:**
-  * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
-  * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
-  * If we check the orange horizontal bar chart, we can determine that **"Process Monitorin"** is the data source most relevant to this platform because is related to **128 techniques out of 187 available**.
-  <img src= "Images/WindowsPlatform.PNG" width="800" height="500" >
+ * **Platform filter = Windows:**
+   * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
+   * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
+   * If we check the orange horizontal bar chart, we can determine that **"Process Monitorin"** is the data source most relevant to this platform because is related to **128 techniques out of 187 available**.
+   <img src= "Images/WindowsPlatform.PNG" width="800" height="500" >
 
- - **Data Source Filter = Process Monitoring:**
-  * Considering the Windows platform, now we can filter the matrix by the data source "Process Monitoring".
-  * With this second filter, we have the following result:
-   * **Process Monitoring** is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).
+ * **Data Source Filter = Process Monitoring:**
+   * Considering the Windows platform, now we can filter the matrix by the data source "Process Monitoring".
+   * With this second filter, we have the following result:
+     * **Process Monitoring** is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).
    <img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="800" height="500" >
 
 **2. Exporting the Text Table to a .CSV file:**
