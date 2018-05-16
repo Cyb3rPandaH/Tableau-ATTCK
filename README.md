@@ -1,4 +1,4 @@
-# Tableau-ATT&CK Matrix for Enterprise
+# Tableau ATT&CK Dashboard
 
 ## Goals
 - Quantify the relationship between **Platforms & Tactics & Techniques & Data Sources**
@@ -7,6 +7,11 @@
 
 ## Tableau Public Dashboard
 - [Tableau Dashboard - ATT&CK Matrix for Enterprise](https://public.tableau.com/profile/cyb3rpanda#!/vizhome/MITREATTCKMatrixforEnterpriseV2/ATTCK?publish=yes)
+
+## Resources
+- [MITRE-ATT&CK](https://attack.mitre.org/wiki/Main_Page)
+- [Tableau Public](https://public.tableau.com/en-us/s/)
+- [Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
 
 ## Understanding the Dashboard
 The minimum unit of analysis for this matrix is the combinations between Platform, Tactics, Techniques, and Data Sources. Considering this, the matrix has 1715 registers.
@@ -62,11 +67,6 @@ e) When you open de .CSV file, because of some cells have a lot of characters, t
 f) If you adjust the rows height, the .CSV file will look like this:
 
 <img src= "Images/Export6.PNG" width="800" height="500" >
-
-## Resources
-- [MITRE-ATT&CK](https://attack.mitre.org/wiki/Main_Page)
-- [Tableau Public](https://public.tableau.com/en-us/s/)
-- [Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
 
 ## Author
 - Jose Luis Rodriguez [Cyb3rPanda](https://twitter.com/Cyb3rPandaH)
