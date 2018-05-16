@@ -39,6 +39,7 @@ a) First example of view: Platform & Tactic
 * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
 * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
 <img src= "Images/WindowsPlatform.PNG" width="1000" height="500" >
+
 - **Tactic filter = Command and Control:**
 * Considering the Windows platform, now we can filter the matrix by the tactic "Command and Control".
 * With this second filter, we have the following results:
@@ -54,6 +55,7 @@ b) Second example of view: Platform & Data Source
 * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
 * If we check the orange horizontal bar chart, we can determine that **"Process Monitorin"** is the data source most relevant to this platform because is related to **128 techniques out of 187 available**.
 <img src= "Images/WindowsPlatform.PNG" width="800" height="500" >
+
 - **Data Source Filter = Process Monitoring:**
 * Considering the Windows platform, now we can filter the matrix by the data source "Process Monitoring".
 * With this second filter, we have the following result:
