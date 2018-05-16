@@ -33,9 +33,9 @@ This is a general view of the dashboard: Without any filter selected, there are 
 <img src= "Images/AllPlatforms.PNG" width="800" height="500" >
 
 ## Using The Tableau Dashboard
-* **1. Filtering the data:** Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
+**1. Filtering the data:** Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
 
- * First example of view: Platform & Tactic 
+First example of view: Platform & Tactic 
   * **Platform filter = Windows:**
   * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
   * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
@@ -53,7 +53,7 @@ This is a general view of the dashboard: Without any filter selected, there are 
 
 <img src= "Images/WindowsPlatformTacticFilter.PNG" width="800" height="500" >
     
- * Second example of view: Platform & Data Source
+Second example of view: Platform & Data Source
   * **Platform filter = Windows:**
   * When we filter the matrix by the Windows platform, the pie chart shows us a value of 100%.
   * For this platform, there are 11 tactics, 187 techniques, and 48 data sources. These values will represent 100% for each field.
