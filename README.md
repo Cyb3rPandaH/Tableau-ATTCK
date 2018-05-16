@@ -50,7 +50,7 @@ This is a general view of the dashboard: Without any filter selected, there are 
      * **12 data sources** *(25.0% = 12/48)*
    * From a techniques perspective, **"Remote File Copy" and "Standard Cryptographic Protocol"** are the techniques with the highest number of **data sources (6 from 12 available)**.
    * From a data sources perspective, **"Packet Capture" and "Process Use of network"** are the most relevant data sources for this tactic because they are related to **15 techniqes out of 20 available**.
-   
+
    <img src= "Images/WindowsPlatformTacticFilter.PNG" width="800" height="500" >
 
 * Second example of view: Platform & Data Source
