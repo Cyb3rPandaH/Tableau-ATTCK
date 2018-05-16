@@ -1,12 +1,15 @@
-# MITRE-ATT&CK Matrix for Enterprise
+# Tableau-ATT&CK Matrix for Enterprise
 
 ## Goals
 - Quantify the relationship between **Platforms & Tactics & Techniques & Data Sources**
 - Summarize data and information about **ATT&CK Matrix for Enterprise**
 - Develop a dashboard with **Tableau** to present the results of this analysis
 
-## Understanding the Tableau Dashboard
-The minimum unit of analysis for this matrix is the combinations of Platform & Tactic & Technique & Data Source. Considering this, the matrix has 1715 registers.
+## Tableau Public Dashboard
+- [Tableau Dashboard - ATT&CK Matrix for Enterprise](https://public.tableau.com/profile/cyb3rpanda#!/vizhome/MITREATTCKMatrixforEnterpriseV2/ATTCK?publish=yes)
+
+## Understanding the Dashboard
+The minimum unit of analysis for this matrix is the combinations between Platform, Tactics, Techniques, and Data Sources. Considering this, the matrix has 1715 registers.
 
 **1. Pie Chart (Platform):** This graphic shows us the distribution of the registers by Platform. If we consider all the registers: 46% belongs to Windows, 29% belongs to macOS, and 25% belongs to Linux.
 
@@ -61,9 +64,10 @@ f) If you adjust the rows height, the .CSV file will look like this:
 <img src= "Images/Export6.PNG" width="800" height="500" >
 
 ## Resources
-- [Tableau Dashboard - ATT&CK Matrix for Enterprise](https://public.tableau.com/profile/cyb3rpanda#!/vizhome/MITREATTCKMatrixforEnterpriseV2/ATTCK?publish=yes)
-- [Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
 - [MITRE-ATT&CK](https://attack.mitre.org/wiki/Main_Page)
+- [Tableau Public](https://public.tableau.com/en-us/s/)
+- [Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
+
 ## Author
 - Jose Luis Rodriguez [Cyb3rPanda](https://twitter.com/Cyb3rPandaH)
 - Roberto Rodriguez [Cyb3rWarD0g](https://twitter.com/Cyb3rWard0g)
