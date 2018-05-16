@@ -45,9 +45,9 @@ First example of view: Platform & Tactic
   * **Tactic filter = Command and Control:**
   * Considering the Windows platform, now we can filter the matrix by the tactic "Command and Control".
   * With this second filter, we have the following results:
-   * **1 tactic** *(9.1% = 1/11)*
-   * **20 techniques** *(10.7% = 20/187)*
-   * **12 data sources** *(25.0% = 12/48)*
+    * **1 tactic** *(9.1% = 1/11)*
+    * **20 techniques** *(10.7% = 20/187)*
+    * **12 data sources** *(25.0% = 12/48)*
   * From a techniques perspective, **"Remote File Copy" and "Standard Cryptographic Protocol"** are the techniques with the highest number of **data sources (6 from 12 available)**.
   * From a data sources perspective, **"Packet Capture" and "Process Use of network"** are the most relevant data sources for this tactic because they are related to **15 techniqes out of 20 available**.
 
@@ -64,7 +64,7 @@ Second example of view: Platform & Data Source
   * **Data Source Filter = Process Monitoring:**
   * Considering the Windows platform, now we can filter the matrix by the data source "Process Monitoring".
   * With this second filter, we have the following result:
-   * **Process Monitoring** is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).
+    * **Process Monitoring** is relevant for 128 techniques that represent 68.4% (128/187), and it's also relevant for all the tactics (100%).
 
 <img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="800" height="500" >
 
