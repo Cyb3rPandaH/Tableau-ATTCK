@@ -69,7 +69,7 @@ Select a variable or variables for analysis (Green box): You have four options t
 
 <img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="800" height="500" >
 
-### Exporting Results
+## Exporting Results
 
 * First you need to click the first column of the table (Asterix) and maintain the cursor over the column until a little gray box appears.
 
