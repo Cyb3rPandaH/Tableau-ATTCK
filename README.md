@@ -11,7 +11,8 @@
 ## Resources
 - [MITRE-ATT&CK](https://attack.mitre.org/wiki/Main_Page)
 - [Tableau Public](https://public.tableau.com/en-us/s/)
-- [Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
+- [Google Spread Sheet - ATTCK Matrix for Enterprise](https://docs.google.com/spreadsheets/d/1voZ_CdlYQHw2jgp-Ses-hW7cH5vZhSoVevBL7PvIXPQ/edit#gid=0)
+- [Excel Data Base](https://github.com/Cyb3rPanda/Tableau-ATTCK/blob/master/Files/HuntTeamTableau_V2.xlsx)
 
 ## Understanding the Dashboard
 The minimum unit of analysis for this matrix is the combinations between Platform, Tactics, Techniques, and Data Sources. Considering this, the matrix table has 1715 records.
@@ -32,8 +33,9 @@ This is a general view of the dashboard: Without any filter selected, there are 
 
 <img src= "Images/AllPlatforms.PNG" width="800" height="500" >
 
-## Using The Tableau Dashboard
-**1. Filtering the data:** Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
+## Using the Dashboard
+### Applying Filters to the Dashboard
+Select a variable or variables for analysis (Green box): You have four options to filter data and perform an analysis (Platforms, Tactics, Techniques, and Data Sources).
 
 First example of view: Platform & Tactic 
   * **Platform filter = Windows:**
@@ -68,7 +70,7 @@ Second example of view: Platform & Data Source
 
 <img src= "Images/WindowsPlatformDataSourceFilter.PNG" width="800" height="500" >
 
-**2. Exporting the Text Table to a .CSV file:**
+### Exporting Results
 
 * First you need to click the first column of the table (Asterix) and maintain the cursor over the column until a little gray box appears.
 
