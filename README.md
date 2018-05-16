@@ -16,17 +16,17 @@
 ## Understanding the Dashboard
 The minimum unit of analysis for this matrix is the combinations between Platform, Tactics, Techniques, and Data Sources. Considering this, the matrix table has 1715 records.
 
-**1. Pie Chart (Platform):** This graphic shows us the distribution of the records by Platform. If we consider all the records: 46% belongs to Windows, 29% belongs to macOS, and 25% belongs to Linux.
+* **Pie Chart (Platform):** This graphic shows us the distribution of the records by Platform. If we consider all the records: 46% belongs to Windows, 29% belongs to macOS, and 25% belongs to Linux.
 
-**2. Blue Bar Charts (Tactics):** This graphic shows us the following information: Number of Tactics (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Tactics of the selected Platform (Vertical bar chart), and the number of Techniques for each Tactic (Horizontal bar chart).
+* **Blue Bar Charts (Tactics):** This graphic shows us the following information: Number of Tactics (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Tactics of the selected Platform (Vertical bar chart), and the number of Techniques for each Tactic (Horizontal bar chart).
 
-**3. Red Bar Charts (Techniques):** This graphic shows us the following information: Number of Techniques (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Techniques of the selected Platform (Vertical bar chart), and the number of Data Sources for each Technique (Horizontal bar chart).
+* **Red Bar Charts (Techniques):** This graphic shows us the following information: Number of Techniques (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Techniques of the selected Platform (Vertical bar chart), and the number of Data Sources for each Technique (Horizontal bar chart).
 
-**4. Orange Bar Charts (Data Sources):** This graphic shows us the following information: Number of Data Sources (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Data Sources of the selected Platform (Vertical bar chart), and the number of Techniques for each Data Source (Horizontal bar chart).
+* **Orange Bar Charts (Data Sources):** This graphic shows us the following information: Number of Data Sources (On Top of the vertical bar chart), Relative Percentage with respect to the Total of Data Sources of the selected Platform (Vertical bar chart), and the number of Techniques for each Data Source (Horizontal bar chart).
 
-**5. Text table (Summary of Data):** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
+* **Text table (Summary of Data):** This table shows us a summary of data about the ATT&amp;CK Matrix for Enterprise. This table allows us to export data into a CSV file.
 
-**6. Filters (Green Box):** You can perform filters using the fields related to the minimum unit of analysis: Platform, Tactics, Techniques, and Data Sources. The most general filter is Platform and the most specific is Data Source. The values of the 4 fields are filtered among themselves.
+* **Filters (Green Box):** You can perform filters using the fields related to the minimum unit of analysis: Platform, Tactics, Techniques, and Data Sources. The most general filter is Platform and the most specific is Data Source. The values of the 4 fields are filtered among themselves.
 
 This is a general view of the dashboard: Without any filter selected, there are 11 Tactics, 219 Techniques, and 48 Data Sources for all the Platforms.
 <img src= "Images/AllPlatforms.PNG" width="800" height="500" >
